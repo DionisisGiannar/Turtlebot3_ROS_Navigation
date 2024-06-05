@@ -1,4 +1,4 @@
-/Turtlebot3 Navigation with Move Base
+Turtlebot3 Navigation with Move Base
 
 Required Packages
 
